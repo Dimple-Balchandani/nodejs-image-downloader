@@ -1,0 +1,22 @@
+{
+  "name": "gimage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "fs": "0.0.1-security",
+    "google-images": "^2.1.0",
+    "mongoose": "^4.9.3",
+    "morgan": "^1.8.1",
+    "path": "^0.12.7",
+    "request": "^2.81.0",
+    "underscore": "^1.8.3"
+  }
+}
